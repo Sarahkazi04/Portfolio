@@ -1,16 +1,58 @@
-# React + Vite
+<p align="center">
+  <img src="preview.png" alt="Portfolio Preview" width="100%">
+</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🌐 Sarah Kazi Portfolio
 
-Currently, two official plugins are available:
+A modern, responsive developer portfolio built using React, Vite, Tailwind CSS, and Framer Motion. It showcases my projects, technical skills, certifications, and experience in software development.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Live Demo
 
-## React Compiler
+🔗 https://sarahkazi-portfolio.vercel.app/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+- Modern and responsive UI
+- Smooth animations with Framer Motion
+- Project showcase with live previews
+- Skills section
+- Certifications section
+- Contact form powered by EmailJS
+- Resume download
+- Mobile-friendly design
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- React
+- Vite
+- Tailwind CSS
+- Framer Motion
+- React Icons
+- EmailJS
+
+## 📂 Featured Projects
+
+- 🌱 Growise
+- 🤖 Ragify
+- 🍱 SwaadExpress
+- 💰 Finance Fellow
+- 🎬 Netflix Clone
+- 🎵 Music Recommendation System
+- ✅ To-Do List
+
+## 📬 Contact
+
+📧 Email: sarahkazi889@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/sarah-kazi-8972a222a/
+
+💻 GitHub:
+https://github.com/Sarahkazi04
+
+🌐 Portfolio:
+https://sarahkazi-portfolio.vercel.app/
+
+---
+
+⭐ If you like this project, consider giving it a star!
